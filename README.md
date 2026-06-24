@@ -59,5 +59,10 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
