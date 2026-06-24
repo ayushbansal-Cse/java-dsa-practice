@@ -13,6 +13,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0054-spiral-matrix](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
@@ -55,4 +56,8 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
