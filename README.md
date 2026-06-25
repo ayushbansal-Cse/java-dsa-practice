@@ -51,6 +51,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
