@@ -14,7 +14,7 @@ class Solution {
             int sum = 0;
 
             for (int i = 0; i < arr.length; i++) {
-                sum += (arr[i] + mid - 1) / mid; // ceil division
+                sum += (arr[i] + mid - 1) / mid; 
             }
 
             if (sum > threshold) {
