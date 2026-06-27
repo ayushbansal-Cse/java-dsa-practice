@@ -26,6 +26,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | ------- |
 | [0001-two-sum](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | ------- |
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -77,4 +79,8 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
