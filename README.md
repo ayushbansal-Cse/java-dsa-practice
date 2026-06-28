@@ -17,6 +17,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
+| [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0867-transpose-matrix) |
@@ -34,12 +35,14 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0027-remove-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
+| [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +77,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0069-sqrtx](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -85,4 +89,12 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
