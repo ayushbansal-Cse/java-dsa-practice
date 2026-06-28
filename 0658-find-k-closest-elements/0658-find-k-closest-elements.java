@@ -15,13 +15,17 @@ int right = lb;
 
 while (k > 0) {
     if (left < 0) {
-        a.add(arr[right++]);
+        a.add(arr[right]);
+        right++;
     } else if (right >= n) {
-        a.add(arr[left--]);
+        a.add(arr[left]);
+        left--;
     } else if (Math.abs(arr[left] - x) <= Math.abs(arr[right] - x)) {
-        a.add(arr[left--]);
+        a.add(arr[left]);
+        left--;
     } else {
-        a.add(arr[right++]);
+        a.add(arr[right]);
+        right++;
     }
     k--;
 }
