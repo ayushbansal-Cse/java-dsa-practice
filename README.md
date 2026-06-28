@@ -17,6 +17,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -97,4 +98,8 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
