@@ -23,6 +23,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0867-transpose-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
 | ------- |
