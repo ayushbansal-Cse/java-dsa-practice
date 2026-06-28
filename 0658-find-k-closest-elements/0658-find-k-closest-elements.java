@@ -26,7 +26,8 @@ while (k > 0) {
     k--;
 }
 
- Collections.sort(a);
+Collections.sort(a);
+
 
         return a;
     }
