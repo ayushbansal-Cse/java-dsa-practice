@@ -7,7 +7,7 @@ class Solution {
         if(n < 0) {
             // avoid overflow when n = Integer.MIN_VALUE
             if(n == Integer.MIN_VALUE) {
-                return myPow(1/x, -(n+1)) * (1/x);
+                return 1/myPow(x, -n-1) * (1/x);
             }
             x = 1 / x;
             n = -n;
