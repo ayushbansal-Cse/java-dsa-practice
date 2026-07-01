@@ -43,6 +43,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0088-merge-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [1768-merge-strings-alternately](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1768-merge-strings-alternately) |
+| [2396-strictly-palindromic-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0048-rotate-image](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0069-sqrtx) |
+| [2396-strictly-palindromic-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +120,8 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0050-powx-n) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
