@@ -42,6 +42,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [1768-merge-strings-alternately](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
