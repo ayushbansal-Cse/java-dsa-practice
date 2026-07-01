@@ -15,6 +15,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0048-rotate-image](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0238-product-of-array-except-self) |
@@ -39,11 +40,13 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0027-remove-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
