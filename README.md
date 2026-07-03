@@ -71,6 +71,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0050-powx-n](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0509-fibonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
@@ -122,6 +123,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
@@ -135,4 +137,8 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
