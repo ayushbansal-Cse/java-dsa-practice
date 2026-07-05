@@ -24,6 +24,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1539-kth-missing-positive-number) |
@@ -44,6 +45,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0088-merge-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
@@ -54,6 +56,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
