@@ -9,6 +9,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0001-two-sum](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -43,6 +44,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | ------- |
 | [0015-3sum](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
