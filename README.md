@@ -23,6 +23,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -39,6 +40,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0001-two-sum](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0088-merge-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
@@ -85,6 +88,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0069-sqrtx](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0509-fibonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
@@ -104,6 +108,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0069-sqrtx](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
@@ -155,4 +160,5 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
