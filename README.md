@@ -24,6 +24,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0169-majority-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
