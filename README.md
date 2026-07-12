@@ -18,6 +18,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0048-rotate-image](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -161,6 +162,11 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
