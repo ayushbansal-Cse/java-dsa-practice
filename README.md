@@ -36,6 +36,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [1539-kth-missing-positive-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 | [0231-power-of-two](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
@@ -169,4 +171,8 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
