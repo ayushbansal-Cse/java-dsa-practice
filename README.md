@@ -129,6 +129,7 @@ Daily Java and DSA solutions from LeetCode and coding practice platforms.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushbansal-Cse/java-dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
